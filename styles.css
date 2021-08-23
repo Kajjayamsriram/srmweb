@@ -1,0 +1,25 @@
+h2{
+	color: blue;
+	font-family: italic;
+	font-variant: small-caps;
+	background-color: yellow;
+}
+p,h1{
+	color: #FFFFFF;
+	background-color:#B3B3B3;
+	text-align: center;
+}
+nav{
+	font-variant: small-caps;
+	font-size: 150%;
+	font-family: arial;"times new roman";
+}
+details{
+	font-style: italic;
+}
+summary{
+	font-style: normal;
+}
+footer{
+	background-color: #b3b3b3;
+}
